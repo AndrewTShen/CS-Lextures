@@ -1,8 +1,8 @@
-# Lesson 0: Vim
+# Vim
 **Written by Andrew Shen**  
 **Last Updated: 09/07/2019**
 
-### Glossary
+### Table of Contents
 1. [Introduction](#introduction)
 2. [Vim Modes](#vim-modes)
 3. [.vimrc](#.vimrc)
@@ -60,7 +60,7 @@ If we press <kbd>v</kbd> we can enter visual mode. This mode is essentially high
 ##### Deleting and Pasting
 Some quick notes about using delete. If you use delete with:
 
-- <kbd>;</kbd> delete the previous character.
+- <kbd>h</kbd> delete the previous character.
 - <kbd>l</kbd> delete the next character.
 - <kbd>j</kbd> delete the current line and next line.
 - <kbd>k</kbd> delete the current line and previous line.
