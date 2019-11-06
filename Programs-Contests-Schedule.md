@@ -55,11 +55,15 @@ Also good practice for USACO, but some of the questions are a little outdated an
 A pretty relaxed programming contest hosted by Virginia Tech's ICPC Team. It is an online, team contest and we will usually send at least a couple teams to compete. The contest dates are TBD.
 
 ## Hackathons
+
+### LexHack
+Hack hosted by LHS! This year will most likely be in the Spring 2020 and a bit smaller than previous years, but fun none the less! (And it's really conviennent so why not :P)
+
 ### Metrohacks
 Hack hosted by Harvard for high schoolers. Overnight event and usually has big sponsors and talks. There is also a womens varient that only women can attend. Probably biggest hackathon in MA for high schoolers.
 
 ### Blueprint
-Hack hosted by MIT for high schoolers. Free Food, what's not to like? The mentors are all MIT students and pretty helpful.
+Hack hosted by MIT for high schoolers. Free Food, what's not to like? The mentors are all MIT students and very helpful and knowledgable.
 
 
 
